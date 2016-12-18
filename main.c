@@ -7,11 +7,6 @@
 
 int main(int argc, char *argv[])
 {
-	int mian;
-
-
-
-
     LOG("111", "222", "nihao");
         LOG("111", "222", "nihuai");
     LOG("111", "222", "nihaohuai");
